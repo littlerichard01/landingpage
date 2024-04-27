@@ -1,1 +1,3 @@
 # landingpage
+O tema escolhido para a landing page é sobre uma empresa de assinaturas mensais (Finishe) para serviços de pesca, onde os assinantes de planos diferentes recebem certos benefícios (produtos) por mês, por semestre e anualmente.
+O objetivo da página é chamar atenção de novos clientes em potencial, mostrando alguns produtos, as três diferentes assinaturas, depoimentos de assinantes e um formulário de contato caso haja alguma dúvida. O principal público alvo são entusiastas da pesca.
